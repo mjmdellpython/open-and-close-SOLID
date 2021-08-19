@@ -1,0 +1,16 @@
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\OperClose\OperClose\bin\Debug\net5.0\OperClose.exe
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\OperClose\OperClose\bin\Debug\net5.0\OperClose.deps.json
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\OperClose\OperClose\bin\Debug\net5.0\OperClose.runtimeconfig.json
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\OperClose\OperClose\bin\Debug\net5.0\OperClose.runtimeconfig.dev.json
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\OperClose\OperClose\bin\Debug\net5.0\OperClose.dll
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\OperClose\OperClose\bin\Debug\net5.0\ref\OperClose.dll
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\OperClose\OperClose\bin\Debug\net5.0\OperClose.pdb
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\OperClose\OperClose\obj\Debug\net5.0\OperClose.csproj.AssemblyReference.cache
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\OperClose\OperClose\obj\Debug\net5.0\OperClose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\OperClose\OperClose\obj\Debug\net5.0\OperClose.AssemblyInfoInputs.cache
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\OperClose\OperClose\obj\Debug\net5.0\OperClose.AssemblyInfo.cs
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\OperClose\OperClose\obj\Debug\net5.0\OperClose.csproj.CoreCompileInputs.cache
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\OperClose\OperClose\obj\Debug\net5.0\OperClose.dll
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\OperClose\OperClose\obj\Debug\net5.0\ref\OperClose.dll
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\OperClose\OperClose\obj\Debug\net5.0\OperClose.pdb
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\OperClose\OperClose\obj\Debug\net5.0\OperClose.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="To make close class of changes we have to use open close concept in designe pattren&#xD;&#xA;">
+    <Position X="4.175" Y="0.5" Height="0.75" Width="2.9" />
+  </Comment>
+  <Class Name="OpenClose.classOpenClose">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAAAAEAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classOpenClose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
